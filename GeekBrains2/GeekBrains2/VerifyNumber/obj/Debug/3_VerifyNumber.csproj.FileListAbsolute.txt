@@ -1,0 +1,6 @@
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\bin\Debug\VerifyNumber.exe.config
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\bin\Debug\VerifyNumber.exe
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\bin\Debug\VerifyNumber.pdb
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\obj\Debug\3_VerifyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\obj\Debug\VerifyNumber.exe
+C:\Users\Georgy\source\repos\GeekBrains2\VerifyNumber\obj\Debug\VerifyNumber.pdb

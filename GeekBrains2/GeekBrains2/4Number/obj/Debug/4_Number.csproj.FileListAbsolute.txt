@@ -1,0 +1,6 @@
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\bin\Debug\4Number.exe.config
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\bin\Debug\4Number.exe
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\bin\Debug\4Number.pdb
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\obj\Debug\4_Number.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\obj\Debug\4Number.exe
+C:\Users\Georgy\source\repos\GeekBrains2\4Number\obj\Debug\4Number.pdb

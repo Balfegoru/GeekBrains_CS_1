@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\bin\Debug\GeekBrains2.exe.config
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\bin\Debug\GeekBrains2.exe
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\bin\Debug\GeekBrains2.pdb
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\obj\Debug\2_Month.csprojAssemblyReference.cache
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\obj\Debug\2_Month.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\obj\Debug\GeekBrains2.exe
+C:\Users\Georgy\source\repos\GeekBrains2\GeekBrains2\obj\Debug\GeekBrains2.pdb
