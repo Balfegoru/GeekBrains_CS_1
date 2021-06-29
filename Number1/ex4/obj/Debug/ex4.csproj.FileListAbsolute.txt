@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\Number1\ex4\bin\Debug\ex4.exe.config
+C:\Users\Georgy\source\repos\Number1\ex4\bin\Debug\ex4.exe
+C:\Users\Georgy\source\repos\Number1\ex4\bin\Debug\ex4.pdb
+C:\Users\Georgy\source\repos\Number1\ex4\obj\Debug\ex4.csprojAssemblyReference.cache
+C:\Users\Georgy\source\repos\Number1\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\Number1\ex4\obj\Debug\ex4.exe
+C:\Users\Georgy\source\repos\Number1\ex4\obj\Debug\ex4.pdb
