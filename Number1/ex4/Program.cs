@@ -24,7 +24,7 @@ namespace ex4
 
         
 
-        static void Randomazer(string[,] field, int numBoat) //Заполнение кораблями 
+        static void Randomazer(string[,] field, int numBoat, int numberAll) //Заполнение кораблями 
         {
             string x = "X";
             int boats = numBoat;
@@ -32,12 +32,14 @@ namespace ex4
 
             //4 палубный
 
-            while (true)
+            while (numberAll!=0)
             {
-                int i = randomer.Next(0, 11);
-                int j = randomer.Next(0, 11);
+                
+                int i = randomer.Next(0, 10);
+                int j = randomer.Next(0, 10);
                 int ii = i;
                 int jj = j;
+                
 
                     if (field[i, j] != x)
                     {
@@ -54,11 +56,12 @@ namespace ex4
                         for (; boats > 0; boats--)
                         {
                             i++;
-                            if (field[i, j] == x)
+                            if (field[i, j] != x)
                             {
                                 field[i, j] = x;
                             }
                         }
+                    numberAll--;
                     break;
                     }
                     catch
@@ -71,12 +74,13 @@ namespace ex4
                             for (; boats > 0; boats--)
                             {
                                 i--;
-                                if (field[i, j] == x)
+                                if (field[i, j] != x)
                                 {
                                     field[i, j] = x;
                                 }
 
                             }
+                        numberAll--;
                         break;
                         }
                         catch
@@ -88,11 +92,13 @@ namespace ex4
                             for (; boats > 0; boats--)
                                 {
                                     j++;
-                                    if (field[i, j] == x)
+                                    if (field[i, j] != x)
                                     {
                                         field[i, j] = x;
                                     }
                                 }
+                            numberAll--;
+                            break;
                             }
                             catch
                             {
@@ -105,12 +111,13 @@ namespace ex4
                                 for (; boats > 0; boats--)
                                         {
                                             j--;
-                                            if (field[i, j] == x)
+                                            if (field[i, j] != x)
                                             {
                                             field[i, j] = x;
                                             }
                                         }
-                                    break;
+                                numberAll--;
+                                break;
                                 }
                                 catch
                                 {
@@ -142,7 +149,10 @@ namespace ex4
 
             ClearField(field);
             Vision(field);
-            Randomazer(field,4);
+            Randomazer(field, 4, 1);
+            Randomazer(field, 3, 2);
+            Randomazer(field, 3, 3);
+            Randomazer(field, 3, 4);
             Console.WriteLine();
             Vision(field);
         }
