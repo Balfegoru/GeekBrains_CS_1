@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\bin\Debug\GeekBrains1.Ex3.exe.config
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\bin\Debug\GeekBrains1.Ex3.exe
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\bin\Debug\GeekBrains1.Ex3.pdb
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\obj\Debug\GeekBrains1.Ex3.exe
+C:\Users\Georgy\source\repos\Number1\GeekBrains1.Ex3\obj\Debug\GeekBrains1.Ex3.pdb
