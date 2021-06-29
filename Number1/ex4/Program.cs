@@ -55,7 +55,7 @@ namespace ex4
                     {
                         for (; boats > 0; boats--)
                         {
-                            i++;
+                            i--;
                             if (field[i, j] != x)
                             {
                                 field[i, j] = x;
@@ -73,7 +73,7 @@ namespace ex4
 
                             for (; boats > 0; boats--)
                             {
-                                i--;
+                                i++;
                                 if (field[i, j] != x)
                                 {
                                     field[i, j] = x;
@@ -149,6 +149,8 @@ namespace ex4
 
             ClearField(field);
             Vision(field);
+
+            //Метод рандомайзер учитывает как размеры корабля, так и количество таких кораблей
             Randomazer(field, 4, 1);
             Randomazer(field, 3, 2);
             Randomazer(field, 3, 3);
