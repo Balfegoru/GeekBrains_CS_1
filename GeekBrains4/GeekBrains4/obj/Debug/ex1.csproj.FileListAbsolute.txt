@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\bin\Debug\GeekBrains4.exe.config
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\bin\Debug\GeekBrains4.exe
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\bin\Debug\GeekBrains4.pdb
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\obj\Debug\GeekBrains4.exe
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\obj\Debug\GeekBrains4.pdb
+C:\Users\Georgy\source\repos\GeekBrains4\GeekBrains4\obj\Debug\ex1.csproj.AssemblyReference.cache
