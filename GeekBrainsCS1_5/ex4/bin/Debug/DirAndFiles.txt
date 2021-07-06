@@ -1,0 +1,76 @@
+C:\Windows\Media\Alarm02.wav
+C:\Windows\Media\Alarm03.wav
+C:\Windows\Media\Alarm04.wav
+C:\Windows\Media\Alarm05.wav
+C:\Windows\Media\Alarm06.wav
+C:\Windows\Media\Alarm07.wav
+C:\Windows\Media\Alarm08.wav
+C:\Windows\Media\Alarm09.wav
+C:\Windows\Media\Alarm10.wav
+C:\Windows\Media\chimes.wav
+C:\Windows\Media\chord.wav
+C:\Windows\Media\Desktop.ini
+C:\Windows\Media\ding.wav
+C:\Windows\Media\flourish.mid
+C:\Windows\Media\ir_begin.wav
+C:\Windows\Media\ir_end.wav
+C:\Windows\Media\ir_inter.wav
+C:\Windows\Media\notify.wav
+C:\Windows\Media\onestop.mid
+C:\Windows\Media\recycle.wav
+C:\Windows\Media\Ring01.wav
+C:\Windows\Media\Ring02.wav
+C:\Windows\Media\Ring03.wav
+C:\Windows\Media\Ring04.wav
+C:\Windows\Media\Ring05.wav
+C:\Windows\Media\Ring06.wav
+C:\Windows\Media\Ring07.wav
+C:\Windows\Media\Ring08.wav
+C:\Windows\Media\Ring09.wav
+C:\Windows\Media\Ring10.wav
+C:\Windows\Media\ringout.wav
+C:\Windows\Media\Speech Disambiguation.wav
+C:\Windows\Media\Speech Misrecognition.wav
+C:\Windows\Media\Speech Off.wav
+C:\Windows\Media\Speech On.wav
+C:\Windows\Media\Speech Sleep.wav
+C:\Windows\Media\tada.wav
+C:\Windows\Media\town.mid
+C:\Windows\Media\Windows Background.wav
+C:\Windows\Media\Windows Balloon.wav
+C:\Windows\Media\Windows Battery Critical.wav
+C:\Windows\Media\Windows Battery Low.wav
+C:\Windows\Media\Windows Critical Stop.wav
+C:\Windows\Media\Windows Default.wav
+C:\Windows\Media\Windows Ding.wav
+C:\Windows\Media\Windows Error.wav
+C:\Windows\Media\Windows Exclamation.wav
+C:\Windows\Media\Windows Feed Discovered.wav
+C:\Windows\Media\Windows Foreground.wav
+C:\Windows\Media\Windows Hardware Fail.wav
+C:\Windows\Media\Windows Hardware Insert.wav
+C:\Windows\Media\Windows Hardware Remove.wav
+C:\Windows\Media\Windows Information Bar.wav
+C:\Windows\Media\Windows Logoff Sound.wav
+C:\Windows\Media\Windows Logon.wav
+C:\Windows\Media\Windows Menu Command.wav
+C:\Windows\Media\Windows Message Nudge.wav
+C:\Windows\Media\Windows Minimize.wav
+C:\Windows\Media\Windows Navigation Start.wav
+C:\Windows\Media\Windows Notify Calendar.wav
+C:\Windows\Media\Windows Notify Email.wav
+C:\Windows\Media\Windows Notify Messaging.wav
+C:\Windows\Media\Windows Notify System Generic.wav
+C:\Windows\Media\Windows Notify.wav
+C:\Windows\Media\Windows Pop-up Blocked.wav
+C:\Windows\Media\Windows Print complete.wav
+C:\Windows\Media\Windows Proximity Connection.wav
+C:\Windows\Media\Windows Proximity Notification.wav
+C:\Windows\Media\Windows Recycle.wav
+C:\Windows\Media\Windows Restore.wav
+C:\Windows\Media\Windows Ringin.wav
+C:\Windows\Media\Windows Ringout.wav
+C:\Windows\Media\Windows Shutdown.wav
+C:\Windows\Media\Windows Startup.wav
+C:\Windows\Media\Windows Unlock.wav
+C:\Windows\Media\Windows User Account Control.wav

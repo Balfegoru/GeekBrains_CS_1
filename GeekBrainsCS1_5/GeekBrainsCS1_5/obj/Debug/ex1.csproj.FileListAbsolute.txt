@@ -1,0 +1,16 @@
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\GeekBrainsCS1_5.exe.config
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\GeekBrainsCS1_5.exe
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\GeekBrainsCS1_5.pdb
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Memory.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Text.Json.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Buffers.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\GeekBrainsCS1_5.exe.config
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\ex1.csproj.CopyComplete
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\GeekBrainsCS1_5.exe
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\GeekBrainsCS1_5\obj\Debug\GeekBrainsCS1_5.pdb

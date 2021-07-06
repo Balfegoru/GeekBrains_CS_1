@@ -1,0 +1,9 @@
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\bin\Debug\ex5.exe.config
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\bin\Debug\ex5.exe
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\bin\Debug\ex5.pdb
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\obj\Debug\ex5.csproj.CopyComplete
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\obj\Debug\ex5.exe
+C:\Users\Georgy\source\repos\GeekBrainsCS1_5\ex5\obj\Debug\ex5.pdb
