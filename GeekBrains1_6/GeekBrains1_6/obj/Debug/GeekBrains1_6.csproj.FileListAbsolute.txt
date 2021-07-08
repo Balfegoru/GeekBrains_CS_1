@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\bin\Debug\GeekBrains1_6.exe.config
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\bin\Debug\GeekBrains1_6.exe
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\bin\Debug\GeekBrains1_6.pdb
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\obj\Debug\GeekBrains1_6.csproj.AssemblyReference.cache
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\obj\Debug\GeekBrains1_6.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\obj\Debug\GeekBrains1_6.exe
+C:\Users\Georgy\source\repos\GeekBrains1_6\GeekBrains1_6\obj\Debug\GeekBrains1_6.pdb
