@@ -1,0 +1,10 @@
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\obj\Debug\GeekBarains1_8.exe
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\obj\Debug\GeekBarains1_8.pdb
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\bin\Debug\GeekBarains1_8.exe.config
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\bin\Debug\GeekBarains1_8.exe
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\bin\Debug\GeekBarains1_8.pdb
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\bin\Debug\ClassLibrary.dll
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\bin\Debug\ClassLibrary.pdb
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\obj\Debug\GeekBrains1_8.csproj.AssemblyReference.cache
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\obj\Debug\GeekBrains1_8.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\GeekBarains1_8\GeekBarains1_8\obj\Debug\GeekBrains1_8.csproj.CopyComplete
